@@ -1,0 +1,7 @@
+- bundle gem Xp01Zel > bundle_gem_Xp01Zel.log
+- cd Xp01Zel
+- mkdir zL
+- mv ../bundle_gem_Xp01Zel.log zL
+- mate zL/z01_Notes.txt
+    - type these notes
+  
