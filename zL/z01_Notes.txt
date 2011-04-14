@@ -1,3 +1,7 @@
+# =====================================
+- rake -T = task list
+- rake install needs sudo
+# =============
 - bundle gem Xp01Zel > bundle_gem_Xp01Zel.log
 - cd Xp01Zel
 - mkdir zL
