@@ -4,4 +4,6 @@
 - mv ../bundle_gem_Xp01Zel.log zL
 - mate zL/z01_Notes.txt
     - type these notes
+- ga .
+
   
