@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["LantzR@gMail.com"]
   s.homepage    = ""
   s.summary     = %q{Experiment 01 - Zel Gems}
-  s.description = %q{Experimenting with Bundler and GitHub. Not intended for public consumption.}
+  s.description = %q{Experimenting with Bundler and GitHub. Not really intended for public consumption.}
 
   s.rubyforge_project = "Xp01Zel"
 

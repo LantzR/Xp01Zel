@@ -1,4 +1,24 @@
 # =====================================
+    - bundler set source to
+        source "http://rubygems.org"
+    - I actually want github only,
+ 		- maybe eventually both
+
+# - - - - - - - - - - - - - - - - - - - - - - - -
+- http://gembundler.com/man/gemfile.5.html
+
+	SOURCES (#source)
+	At the top of the Gemfile, add one line for each Rubygems source 
+	that might contain the gems listed in the Gemfile.
+
+	source "http://rubygems.org"
+	source "http://gems.github.com"
+	Each of these _source_s MUST be a valid Rubygems repository.
+
+- Change gemfile to github
+   - bump patch
+# -------------------------------------
+
 - rake -T = task list
 - rake install needs sudo
 # =============
