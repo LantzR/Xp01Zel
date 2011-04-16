@@ -1,6 +1,6 @@
 #  === Xp01 Version === 
 module Xp01Zel
-  VERSION = "0.0.3"
+  VERSION = "0.0.4"
 end 
 
 # - - - - - - - - - - - - - - - - - - -

@@ -1,9 +1,19 @@
 # -----------------------------------------------
-#   === Xp01Zel
+#   === Xp01Zel ===
 # -----------------------------------------------
 module Xp01Zel
-  # Your code goes here...
-  puts '=== Xp01Zel ==='
+  # - Say Hi
+  def self.say_hi
+    puts 'Hiya'
+  end
+  
+  # Say name
+  def self.say_name  
+    puts '=== Xp01Zel ==='
+  end
+  # - - - - - - - - - - - - - - - - - - -
+
+  self.say_name
 end
 # - - - - - - - - - - - - - - - - - - -
 # -----------------------------------------------
