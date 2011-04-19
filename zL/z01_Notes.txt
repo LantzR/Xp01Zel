@@ -1,9 +1,17 @@
 # =====================================
+# - GitHub
+      - Create repository on GitHub with web interface
+			[make these notes then push to GitHub]
+		=== Then ==
+	  - git remote add origin git@github.com:LantzR/Xp01Zel.git
+	  - git push -u origin master
+	
+# - - - - - - - - - - - - - - - - - - - - - - - -
     - bundler set source to
         source "http://rubygems.org"
     - I actually want github only,
  		- maybe eventually both
-
+        	- ok I was confused - gemspec not used to create GitHub
 # - - - - - - - - - - - - - - - - - - - - - - - -
 - http://gembundler.com/man/gemfile.5.html
 
